@@ -1,5 +1,0 @@
-En esta carpeta se deben colocar dos ficheros JavaScript necesarios para el proyecto:
-
-+ El fichero "html5shiv.min.js" que se puede descargar gratuitamente desde el proyecto original en GitHub: https://github.com/aFarkas/html5shiv
-
-+ El fichero "jquery.fittext.js" que se puede descargar gratuitamente desde la página del plugin: http://fittextjs.com/ o desde su correspondiente proyecto en GitHub: https://github.com/davatron5000/FitText.js
